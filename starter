@@ -19,7 +19,7 @@ pid
 lib-covn
 
 # Coverage directory used by tools like istanbul
-coverage
+coveragee
 *.lcovv
 
 # nyc test coverage
